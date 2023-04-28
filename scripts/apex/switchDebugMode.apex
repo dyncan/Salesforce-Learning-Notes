@@ -1,0 +1,2 @@
+Boolean current = [SELECT UserPreferencesUserDebugModePref FROM USER WHERE Id =: UserInfo.getUserId() ].UserPreferencesUserDebugModePref ; 
+update new User(Id = UserInfo.getUserId(), UserPreferencesUserDebugModePref= !current);

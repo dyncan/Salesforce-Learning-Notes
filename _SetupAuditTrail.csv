@@ -1,0 +1,19 @@
+Id,Action,Section,CreatedDate,CreatedBy.Name,Display
+0YmDp000003jGIUKA2,insertCertificate,Certificate and Key Management,2023-04-28T07:40:11.000+0000,force field,Created Certificate SelfSignedCert_28Apr2023_074010
+0YmDp000003jGITKA2,enhancedDomainChosen,My Domain,2023-04-28T07:40:08.000+0000,force field,Deployed a My Domain change with My Domain login URL cloud-field-dev-ed.develop.my.salesforce.com with enhanced domains
+0YmDp000003jGISKA2,useSandboxOrgDomainPrefOffOn,,2023-04-28T07:40:07.000+0000,force field,Organization setup action: useSandboxOrgDomainPrefOffOn has changed.
+0YmDp000003jGINKA2,saveEnhancedDomainProvisioned,My Domain,2023-04-28T07:39:32.000+0000,force field,Saved a change to My Domain details that started the provisioning process for cloud-field-dev-ed.develop.my.salesforce.com with enhanced domains. This change takes effect after the new My Domain is deployed.
+0YmDp000003jGIIKA2,changedpassword,Manage Users,2023-04-28T07:38:11.000+0000,force field,Set new password for user null
+0YmDp000003jGI8KAM,changedUserEmailVerifiedStatusVerified,Manage Users,2023-04-28T07:37:51.000+0000,Automated Process,"For user force@field.com, the User Verified Email status changed to verified"
+0YmDp000003jGHfKAM,value_MAX_STREAMING_TOPICS_PROV,,2023-04-28T07:35:34.000+0000,,Max number of streaming topics
+0YmDp000003jGHeKAM,inviteCsnUserEnabledOnOff,,2023-04-28T07:35:10.000+0000,force field,Organization setup action: inviteCsnUserEnabledOnOff has changed.
+0YmDp000003jG83KAE,value_MAX_STREAMING_TOPICS_PROV,,2023-04-28T05:49:58.000+0000,,Max number of streaming topics
+0YmDp000003jG7qKAE,createdfieldupdate,Workflow Rule,2023-04-28T05:49:49.000+0000,Automated Process,Created Field Update Changes the case priority to high. for Object: Case
+0YmDp000003jG7pKAE,SLAProcessChanged,Customize Entitlement Process,2023-04-28T05:49:46.000+0000,Automated Process,Created Entitlement Process Standard Case.
+0YmDp000003jG7oKAE,entitlementsEnabledOffOn,,2023-04-28T05:49:45.000+0000,Automated Process,Organization setup action: entitlementsEnabledOffOn has changed.
+0YmDp000003jG7jKAE,createdFlexiPage,Lightning Pages,2023-04-28T05:49:45.000+0000,Automated Process,Created Lightning Page: Sales App Utility Bar
+0YmDp000003jG7TKAU,externalSharingModelEnabled,Sharing Defaults,2023-04-28T05:49:29.000+0000,force field,Enabled External Sharing Model
+0YmDp000003jG7SKAU,value_CASE_FEEDS_PROCESSING_STATE,,2023-04-28T05:49:23.000+0000,force field,Case Feeds Processing State
+0YmDp000003jG7RKAU,value_CASE_FEEDS_JOB_STATUS,,2023-04-28T05:49:23.000+0000,force field,Case Feeds Job Status
+0YmDp000003jG7QKAU,secureGuestUserRecordAccessEnabled,Sharing Defaults,2023-04-28T05:49:22.000+0000,force field,Enabled Secure Guest User Record Access
+0YmDp000003jG7PKAU,topicTimeSlotOffOn,,2023-04-28T05:48:45.000+0000,force field,Organization setup action: topicTimeSlotOffOn has changed.
